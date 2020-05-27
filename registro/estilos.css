@@ -74,13 +74,14 @@ p{
 	text-align: center;
 	color: #626264;
 }
-.log{
-	text-decoration: none;
-	color:#333335;
-	font-weight: 600;
-}
 a{
-	margin-left: 20px;
+	font-weight: 600;
+	text-decoration: none;
+	color: #333335;
+	margin-left: 50px;
+}
+a:hover{
+	color:aqua;
 }
 #par{
 	margin-right: 50px;
